@@ -1,6 +1,9 @@
 # trabalho1_devweb
 Trabalho 1 de Desenvolvimento para Web
 
+A prévia do HTML pode ser visualizada no seguinte link:
+https://cordovaeduarda.github.io/trabalho1_devweb/trabalho1.html
+
 No trabalho 1 da disciplina de Desenvolvimento para Web, foi criado um arquivo simples HTML, chamado trabalho1.html, onde foram desenvolvidos os seguintes pontos:
 
 - Mudança da linguagem para pt-br no atributo 'lang' da tag <html>
